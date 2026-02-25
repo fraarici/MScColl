@@ -10,7 +10,7 @@ All lectures will take place in room BE0.17
 | 13-Mar | 16:15 | Teaching information Session with Hilke Hoogenboom (ICLON) |
 | 20-Mar | 15:15 | CV Workshop with Ilse Huijskens (Career Service) |
 | 10-Apr | 15:15 | Frans Osinga (Institute of Security and Global Affairs) |
-| 24-Apr | 15:15 | Victor van der Horst (FNW)
+| 24-Apr | 15:15 | Victor van der Horst (Faculty of Science)
 |        | 16:15 |Magnus Munch (ABN Amro)|
 | 08-May | 16:15 | Misja Steinmetz (TNO)|
 | 22-May | 16:15 | Martha Dellar (Deltares)|
