@@ -1,2 +1,2 @@
 # MScColl
-Master Colloquium at Leiden University
+Master Colloquium, Master in Matehmatics, Leiden University.
