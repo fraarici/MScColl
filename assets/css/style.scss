@@ -1,0 +1,46 @@
+---
+---
+
+// Leiden University blue
+$leiden-blue: #003A70;
+$leiden-blue-light: #0052A3;
+$leiden-blue-dark: #002347;
+
+@import "{{ site.theme }}";
+
+// Override theme colors
+body {
+  background-color: #f6f6f6;
+  color: $leiden-blue-dark;
+}
+
+a {
+  color: $leiden-blue;
+  
+  &:hover {
+    color: $leiden-blue-light;
+  }
+}
+
+header {
+  background: linear-gradient(135deg, $leiden-blue 0%, $leiden-blue-light 100%);
+  border-bottom: 3px solid $leiden-blue-dark;
+  
+  h1 {
+    color: white;
+  }
+  
+  p {
+    color: rgba(255, 255, 255, 0.9);
+  }
+}
+
+code {
+  background-color: #f3f3f3;
+  border: 1px solid $leiden-blue;
+  color: $leiden-blue-dark;
+}
+
+strong {
+  color: $leiden-blue-dark;
+}
