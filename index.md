@@ -5,7 +5,7 @@
 | Date  | Time | Speaker|
 | ------------- | ------| ------------- |
 | 11-Sep | 13:15 | Student Presentations |
-| 18-Sep | 13:15 ||
+| 18-Sep | 13:15 | Marco Streng (LU) |
 | 25-Sep | 13:15 ||
 | 2-Oct  | 13:15 ||
 | 9-Oct  | 13:15 ||
