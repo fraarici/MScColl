@@ -1,16 +1,19 @@
-# Master Colloquium 2025/2026
-## Schedule Guest Speakers
+# Master Colloquium 2026/2027
 
-All lectures will take place in room BE0.17
+## Schedule Staff and Student Presentations
 
 | Date  | Time | Speaker|
 | ------------- | ------| ------------- |
-| 27-Feb | 16:15 |Daan van de Weem (NWO)|
-| 06-Mar | 16:15 | Ton de Waal (CBS) |
-| 13-Mar | 16:15 | Teaching information Session with Hilke Hoogenboom (ICLON) |
-| 20-Mar | 15:15 | CV Workshop with Ilse Huijskens (Career Service) |
-| 10-Apr | 15:15 | Frans Osinga (Institute of Security and Global Affairs) |
-| 24-Apr | 15:15 | Victor van der Horst (Faculty of Science)
-|        | 16:15 |Magnus Munch (ABN Amro)|
-| 08-May | 16:15 | Misja Steinmetz (TNO)|
-| 22-May | 16:15 | Martha Dellar (Deltares)|
+| 11-Sep | 13:15 | Student Presentations |
+| 18-Sep | 13:15 ||
+| 25-Sep | 13:15 ||
+| 2-Oct  | 13:15 ||
+| 9-Oct  | 13:15 ||
+| 16-Oct  | 13:15 ||
+| 30-Oct  | 13:15 ||
+
+
+## Schedule Guest Speakers
+
+All lectures will take place in room BW0.17
+
