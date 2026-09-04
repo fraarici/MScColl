@@ -8,7 +8,7 @@
 | 18-Sep | 13:15 | [Marco Streng](https://pub.math.leidenuniv.nl/~strengtc/) (LU) |
 | 25-Sep | 13:15 ||
 | 2-Oct  | 13:15 ||
-| <span style="color: purple;">9-Oct</span>  | 13:15 ||
+| | <span style="background-color: purple; color: white; padding: 2px 6px;">9-Oct</span>  | 13:15 ||  | 13:15 ||
 | 16-Oct  | 13:15 ||
 | 30-Oct  | 13:15 |[Peter Grunwald](https://safestatistics.com/) (CWI and LU)|
 | 6-Nov | 13:15 | [Jorik Jooken](https://people.cs.kuleuven.be/~jorik.jooken/) (LU)|
