@@ -10,7 +10,8 @@
 | 2-Oct  | 13:15 ||
 | 9-Oct  | 13:15 ||
 | 16-Oct  | 13:15 ||
-| 30-Oct  | 13:15 ||
+| 30-Oct  | 13:15 |Peter Grunwald (CWI and LU)|
+| 6-Nov | 13:15 | Jorik Jooken (LU)|
 
 
 ## Schedule Guest Speakers
