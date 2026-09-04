@@ -2,7 +2,7 @@
 
 ## Schedule Staff and Student Presentations
 
-| Date  | Time | Guest Speaker|
+| Date  | Time | Speaker|
 | ------------- | ------| ------------- |
 | 11-Sep | 13:15 | Student Presentations |
 | 18-Sep | 13:15 ||
