@@ -16,7 +16,7 @@
 | 20-Nov|13:15 ||
 | 27-Nov|13:15 ||
 | 13-Nov|13:15 ||
-| 4-Dec|13:15 ||
+| 4-Dec|13:15 |[Dirk van der Hoeven (LU)](https://dirkvanderhoeven.com/)|
 | 11-Dec|13:15 ||
 
 
