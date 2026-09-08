@@ -19,10 +19,8 @@
 | 11-Dec|13:15 |Gianne Derks (TBC)|
 
 
-
-
+All lectures will take place in room BW0.17
 
 ## Schedule Guest Speakers
 
-All lectures will take place in room BW0.17
-
+The schedule for the spring semester will be announced later.
