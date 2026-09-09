@@ -5,17 +5,17 @@
 | Date  | Time | Speaker|
 | ------------- | ------| ------------- |
 | 11-Sep | 13:15 | Student Presentations |
-| 18-Sep | 13:15 | [Marco Streng](https://pub.math.leidenuniv.nl/~strengtc/) (LU) |
+| 18-Sep | 13:15 | [Marco Streng](https://pub.math.leidenuniv.nl/~strengtc/) (MI) |
 | 25-Sep | 13:15 ||
 | 2-Oct  | 13:15 ||
 | <span style="color: purple">9-Oct</span>  | 13:15 ||  
 | 16-Oct  | 13:15 ||
-| 30-Oct  | 13:15 |[Peter Grunwald](https://safestatistics.com/) (CWI and LU)|
-| 6-Nov | 13:15 | [Jorik Jooken](https://people.cs.kuleuven.be/~jorik.jooken/) (LU)|
-| 13-Nov|13:15 ||
+| 30-Oct  | 13:15 |[Peter Grunwald](https://safestatistics.com/) (CWI and MI)|
+| 6-Nov | 13:15 | [Jorik Jooken](https://people.cs.kuleuven.be/~jorik.jooken/) (MI)|
+| 13-Nov|13:15 |[Roeland Merks](https://pub.math.leidenuniv.nl/~merksrmh2/index.html)(MI, IBL and Lorentz Center)|
 | 20-Nov|13:15 ||
 | 27-Nov|13:15 ||
-| 4-Dec|13:15 |[Dirk van der Hoeven (LU)](https://dirkvanderhoeven.com/)|
+| 4-Dec|13:15 |[Dirk van der Hoeven (MI)](https://dirkvanderhoeven.com/)|
 | 11-Dec|13:15 |Gianne Derks (TBC)|
 
 
