@@ -7,7 +7,7 @@
 | 11-Sep | 13:15 | Student Presentations |
 | 18-Sep | 13:15 | [Marco Streng](https://pub.math.leidenuniv.nl/~strengtc/) (MI) |
 | 25-Sep | 13:15 ||
-| 2-Oct  | 13:15 ||
+| 2-Oct  | 13:15 |[Aitor Iribar Lopez](...) (MI)|
 | <span style="color: purple">9-Oct</span>  | 13:15 ||  
 | 16-Oct  | 13:15 ||
 | 30-Oct  | 13:15 |[Peter Grunwald](https://safestatistics.com/) (CWI and MI)|
