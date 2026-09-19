@@ -6,7 +6,7 @@
 | ------------- | ------| ------------- |
 | 11-Sep | 13:15 | Student Presentations |
 | 18-Sep | 13:15 | [Marco Streng](https://pub.math.leidenuniv.nl/~strengtc/) (MI) |
-| 25-Sep | 13:15 ||
+| 25-Sep | 13:15 |Student Presentations |
 | 2-Oct  | 13:15 |[Martin Bright](https://www.universiteitleiden.nl/en/staffmembers/martin-bright) (MI)|
 | <span style="color: purple">9-Oct</span>  | 13:15 ||  
 | 16-Oct  | 13:15 |[Aitor Iribar Lopez](https://people.math.ethz.ch/~airibar/about) (MI)|
