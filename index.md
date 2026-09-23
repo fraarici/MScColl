@@ -10,7 +10,7 @@
 | 2-Oct  | 13:15 |[Martin Bright](https://www.universiteitleiden.nl/en/staffmembers/martin-bright) (MI)|
 | <span style="color: purple">9-Oct</span>  | 13:15 ||  
 | 16-Oct  | 13:15 |[Aitor Iribar Lopez](https://people.math.ethz.ch/~airibar/about) (MI)|
-| 30-Oct  | 13:15 |[Peter Grunwald](https://safestatistics.com/) (CWI and MI)|
+| 30-Oct  | 13:15 |[Peter Grünwald](https://safestatistics.com/) (CWI and MI)|
 | 6-Nov | 13:15 | [Jorik Jooken](https://people.cs.kuleuven.be/~jorik.jooken/) (MI)|
 | 13-Nov|13:15 |[Roeland Merks](https://pub.math.leidenuniv.nl/~merksrmh2/index.html)(MI, IBL and Lorentz Center)|
 | 20-Nov|13:15 |[Moritz Otto](https://sites.google.com/view/moritz-otto) (MI)|
