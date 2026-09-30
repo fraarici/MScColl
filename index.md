@@ -14,7 +14,7 @@
 | 6-Nov | 13:15 | [Jorik Jooken](https://people.cs.kuleuven.be/~jorik.jooken/) (MI)|
 | 13-Nov|13:15 |[Roeland Merks](https://pub.math.leidenuniv.nl/~merksrmh2/index.html)(MI, IBL and Lorentz Center)|
 | 20-Nov|13:15 |[Moritz Otto](https://sites.google.com/view/moritz-otto) (MI)|
-| 27-Nov|13:15 ||
+| 27-Nov|13:15 |[Dimitris Gerontogiannis](https://sites.google.com/view/dmgerontogiannis/home) (MI)|
 | 4-Dec|13:15 |[Dirk van der Hoeven (MI)](https://dirkvanderhoeven.com/)|
 | 11-Dec|13:15 |Gianne Derks (TBC)|
 
